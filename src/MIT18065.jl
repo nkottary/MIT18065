@@ -12,8 +12,8 @@ using Convex
 using JSON
 using IterativeSolvers
 using Interact # for displaying signals of images
-using GLAbstraction, GLVisualize, GLWindow, Reactive, ModernGL, GeometryTypes
-import GLAbstraction: N0f8
+#using GLAbstraction, GLVisualize, GLWindow, Reactive, ModernGL, GeometryTypes
+#import GLAbstraction: N0f8
 
 using FileIO: @format_str, File, filename, add_format, stream
 
